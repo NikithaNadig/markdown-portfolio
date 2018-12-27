@@ -1,1 +1,2 @@
-( ![This is Nikitha Nadig ]) )
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
